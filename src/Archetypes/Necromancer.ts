@@ -1,5 +1,5 @@
-import Archetype from "./Archetype";
-import { EnergyType } from '../Energy'
+import Archetype from './Archetype';
+import { EnergyType } from '../Energy';
 
 class Necromancer extends Archetype {
   necromancerType: EnergyType;
