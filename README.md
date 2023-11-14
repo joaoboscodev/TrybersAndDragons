@@ -18,6 +18,9 @@ Boa parte dos seres podem ser considerados lutadores, bastando para isso possuir
 
 # Como executar a aplicação ⚙️ 
 
+ <details>
+  <summary><strong>🐋 Rodando no Docker vs Localmente</strong></summary><br />
+  
   ## Com Docker
 
   > Rode o serviço `node` com o comando `docker-compose up -d`.
@@ -41,7 +44,7 @@ Boa parte dos seres podem ser considerados lutadores, bastando para isso possuir
 <img src="images/remote-container.png" width="800px" >  
 
 ---
-
-## Sem Docker
-
-> Instale as dependências [**Caso existam**] com `npm install`
+  
+  ## Sem Docker
+  
+  > Instale as dependências [**Caso existam**] com `npm install`
